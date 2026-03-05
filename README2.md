@@ -1,0 +1,2 @@
+Hey everyone! Just a quick heads-up: Carpet OS isn't a standalone OS yet. It's currently a custom skin/distribution based on Debian XFCE (Trixie). I'm still learning the ropes of Linux and OS development, so I'm starting with this customization project.
+Once I level up my skills, I'm planning to build a completely independent OS from the ground up. Thanks for joining me on this journey! Bye for now!
